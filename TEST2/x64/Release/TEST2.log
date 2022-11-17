@@ -1,0 +1,9 @@
+﻿  TEST2.cpp
+E:\Source\TEST2\TEST2.cpp(597,22): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+E:\Source\TEST2\TEST2.cpp(751,66): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating code
+  1 of 163 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  TEST2.vcxproj -> E:\Source\TEST2\x64\Release\TEST2.exe

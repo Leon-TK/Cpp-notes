@@ -1,0 +1,18 @@
+TODO:  or use just one argument of bool? That is caleer must make expression, line - 3, file - E:\Source\Cpp notes\CppStlTrainingField\Contract.hpp
+TODO:  optimize;, line - 233, file - E:\Source\Cpp notes\CppStlTrainingField\main.cpp
+TODO:  can I do std::move? if So, need to write a rule that passed ref to func must not be moved or something else, line - 255, file - E:\Source\Cpp notes\CppStlTrainingField\main.cpp
+TODO:  unfinished, line - 279, file - E:\Source\Cpp notes\CppStlTrainingField\main.cpp
+TODO:  ahead returning because of size - possiblePeak, line - 308, file - E:\Source\Cpp notes\CppStlTrainingField\main.cpp
+TODO:  save note: copying of pointers is crititcal restricted! because you cit's hard to trace how many thhem and who is the ownership, line - 467, file - E:\Source\Cpp notes\CppStlTrainingField\main.cpp
+TODO:  dont allocate with large size, line - 55, file - E:\Source\Cpp notes\CppStlTrainingField\MemoryPool.hpp
+TODO:  unfinished, line - 5, file - E:\Source\Cpp notes\CppStlTrainingField\pigIt.hpp
+TODO:  todo note, line - 3, file - E:\Source\Cpp notes\CppStlTrainingField\Prototype.hpp
+TODO:  seg fault, line - 17, file - E:\Source\Cpp notes\CppStlTrainingField\Stream.h
+TODO:  pointers' memory allocation, line - 18, file - E:\Source\Cpp notes\Patterns\main.cpp
+TODO:  format the code by rules/convention, line - 19, file - E:\Source\Cpp notes\Patterns\main.cpp
+TODO:  resolve circular dependency and forward decalration, line - 4, file - E:\Source\Cpp notes\Patterns\State.hpp
+TODO:  create macro for testing this file by pasting main function, line - 4, file - E:\Source\Cpp notes\Patterns\Template method.hpp
+TODO:  create cpp note about using lambdas, line - 21, file - E:\Source\Cpp notes\Pointers reference ownership\main.cpp
+TODO: : delete copy things, line - 9, file - E:\Source\Cpp notes\Pointers reference ownership\MyPtr.hpp
+TODO:  I think when I access arr2 +i I need to do this by using (arr2 + i * elementsize), line - 83, file - E:\Source\Cpp notes\TEST2\TEST2.cpp
+TODO:  I think when I access arr2 +i I need to do this by using (arr2 + i * elementsize), line - 140, file - E:\Source\Cpp notes\TEST2\TEST2.cpp
